@@ -123,6 +123,7 @@ body._lock {
   justify-content: space-between;
 }
 .header__logo {
+  height: 40px;
   display: flex;
   align-items: center;
   z-index: 5;
@@ -390,7 +391,7 @@ body._lock {
   content: "";
   height: 24px;
   width: 24px;
-  background: url("/img/eva_chevron-right-outline.svg");
+  background: url("../img/eva_chevron-right-outline.svg");
 }
 .main-block__image {
   position: absolute;
@@ -854,7 +855,7 @@ body._lock {
   display: block;
   height: 48px;
   width: 48px;
-  background: url("/img/eva_chevron.svg");
+  background: url("../img/eva_chevron.svg");
 }
 .item-cryptocurrency__button-block {
   display: flex;
@@ -895,7 +896,7 @@ body._lock {
   content: "";
   height: 24px;
   width: 24px;
-  background: url("/img/eva_chevron-right-outline.svg");
+  background: url("../img/eva_chevron-right-outline.svg");
 }
 
 @media (max-width: 1023px) {
